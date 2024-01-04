@@ -123,7 +123,7 @@ USE_TZ = True
 
 
  #Static files (CSS, JavaScript, images)
-STATIC_URL = '/static/'
+STATIC_URL = 'static/'
 
 
 # Media files (user-uploaded files)
